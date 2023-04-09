@@ -10,7 +10,7 @@ While you are typing - the program takes measurements, and show them in special 
 First you clone it to your directory.
 
 ```bash
-git clone 
+git clone https://github.com/RahimGulyamov/Python_project_1.git
 ```
 
 Then you are entry to the Typing-Trainer/TypingTrainer directory
