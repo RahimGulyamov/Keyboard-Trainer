@@ -13,7 +13,7 @@ First you clone it to your directory.
 git clone https://github.com/RahimGulyamov/Python_project_1.git
 ```
 
-Then you are entry to the Typing-Trainer/TypingTrainer directory
+Then you are entry to the /Python_project_1  directory
 
 ```bash
 cd Python_project_1
