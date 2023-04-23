@@ -1,3 +1,3 @@
-from src.class_game import Game
+from src.class_Game import game
 
-Game.testing()
+game.testing()

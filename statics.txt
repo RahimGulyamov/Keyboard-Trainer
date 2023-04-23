@@ -87,3 +87,15 @@ Result: Time:24 secs   Accuracy:68%   WpM: 31
 Main Text: I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was un
 Your Text: I suggested holding a 'Python O
 Result: Time:21 secs   Accuracy:86%   WpM: 18
+
+Main Text: Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bri
+Your Text: Writing PHP is like peeing 
+Result: Time:19 secs   Accuracy:87%   WpM: 17
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:6 secs   Accuracy:0%   WpM: 0
