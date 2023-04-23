@@ -23,7 +23,7 @@ class KeyboardLine:
 class Keyboard:
     def __init__(self, screen):
         self.screen = screen
-        self.text_size = text_size
+        self.text_size = 30
         self.key_size = (50, 50)
         self.key_space_size = (250, 50)
         self.space = 10
