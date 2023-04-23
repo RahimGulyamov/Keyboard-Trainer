@@ -64,7 +64,7 @@ class Keyboard:
         keys = (self.keys_from_1, self.keys_from_Q, self.keys_from_A, self.keys_from_Z, self.key_space)
         for line in keys:
             for key in line:
-                if key.color != 'white' and time.time() - key.time > 0.2:
+                if key.color != 'white' and time.time() - key.time > 0.12:
                     key.color = 'white'
 
     def blit(self):

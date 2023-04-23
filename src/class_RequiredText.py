@@ -43,9 +43,10 @@ class Joke(RequiredText):
 
 class Wiki(RequiredText):
     def get_text(self):
-        f = open('./wiki.txt')
+        f = open('src/wiki.txt')
         rand = random.randint(0, 273)
         self.output_text = str(f.readlines()[rand])
+        self.output_text = self.output_text[:-2]
         self.output_text = self.output_text[:90]
         self.output_text.strip()
         print(self.output_text)

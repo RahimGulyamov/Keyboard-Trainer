@@ -221,7 +221,7 @@ class Game:
         self.finish.blit(self.screen)
 
         self.keyboard.blit()
-        if self.bottom_statistic.color == 'green':
+        if self.bottom_statistic.color != 'green':
             self.keyboard.white()
 
 
