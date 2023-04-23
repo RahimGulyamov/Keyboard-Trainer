@@ -128,3 +128,19 @@ Result: Time:11 secs   Accuracy:2%   WpM: 2
 Main Text: Why did the programmer quit his job? Because he didn't get arrays.
 Your Text: 
 Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: When your hammer is C++, everything begins to look like a thumb.
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0

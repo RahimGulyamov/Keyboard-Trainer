@@ -118,10 +118,12 @@ class Game:
                     elif self.bottom_joke.rect.collidepoint(mouse):
                         self.bottom_joke.color = 'green'
                         self.bottom_wiki.color = 'red'
+                        self.enter_start(f)
                         self.required_text = Joke()
                     elif self.bottom_wiki.rect.collidepoint(mouse):
                         self.bottom_wiki.color = 'green'
                         self.bottom_joke.color = 'red'
+                        self.enter_start(f)
                         self.required_text = Wiki()
 
                 # KEYDOWN for word processing
@@ -141,18 +143,19 @@ class Game:
                         if event.unicode == self.required_text.output_text[len(self.users_text.output_text)]:
                             if self.len_rect < max_len_rect:
                                 self.len_rect += change_len_rect
-                            if event.unicode in self.keyboard.keys:
-                                self.keyboard.keys[event.unicode].color = 'green'
-                                self.keyboard.keys[event.unicode].time = time.time()
-                                self.keyboard.keys[event.unicode].proper_use += 1
+                            if str(event.unicode).lower() in self.keyboard.keys:
+                                self.keyboard.keys[str(event.unicode).lower()].color = 'green'
+                                self.keyboard.keys[str(event.unicode).lower()].time = time.time()
+                                self.keyboard.keys[str(event.unicode).lower()].proper_use += 1
+
                             self.users_text.update(self.users_text.output_text + event.unicode)
                         else:
                             count += 1
 
-                            if event.unicode in self.keyboard.keys:
-                                self.keyboard.keys[event.unicode].color = 'red'
-                                self.keyboard.keys[event.unicode].time = time.time()
-                                self.keyboard.keys[event.unicode].mistakes += 1
+                            if str(event.unicode).lower() in self.keyboard.keys:
+                                self.keyboard.keys[str(event.unicode).lower()].color = 'red'
+                                self.keyboard.keys[str(event.unicode).lower()].time = time.time()
+                                self.keyboard.keys[str(event.unicode).lower()].mistakes += 1
 
                     if len(self.users_text.output_text) == len(
                             self.required_text.output_text) and self.bottom_start.color == 'green':
