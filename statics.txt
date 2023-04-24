@@ -248,3 +248,71 @@ Result: Time:2 secs   Accuracy:0%   WpM: 0
 Main Text: 
 Your Text: 
 Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Sharks can live for five centuries
+Your Text: Sharks can live for five centuries
+Result: Time:18 secs   Accuracy:79%   WpM: 22
+
+Main Text: The cracking sound your joints make is the sound of gases being released
+Your Text: The cracking sound your joints make is the sound of gases being released
+Result: Time:35 secs   Accuracy:89%   WpM: 24
+
+Main Text: London cabbies have to memorize literally everything
+Your Text: London cabbies have to memorize literally everything
+Result: Time:24 secs   Accuracy:91%   WpM: 26
+
+Main Text: The first iPhone wasn't made by Apple
+Your Text: The first iPhone wasn't made by Apple
+Result: Time:23 secs   Accuracy:78%   WpM: 19
+
+Main Text: The hottest spot on the planet is in Libya
+Your Text: The hottest spot on the planet is in Libya
+Result: Time:21 secs   Accuracy:85%   WpM: 24
+
+Main Text: Actor Bill Murray uses a 1-800 number instead of an agent or manager
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: The world wastes about 1 billion metric tons of food each year
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris causes the Blue Screen of Death.
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris's OSI network model has only one layer - Physical.
+Your Text: Chuck Norris's OSI net
+Result: Time:11 secs   Accuracy:76%   WpM: 24
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:11 secs   Accuracy:76%   WpM: 24
+
+Main Text: 
+Your Text: 
+Result: Time:11 secs   Accuracy:76%   WpM: 24
+
+Main Text: 
+Your Text: 
+Result: Time:11 secs   Accuracy:76%   WpM: 24

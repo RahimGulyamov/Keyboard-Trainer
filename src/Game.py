@@ -130,6 +130,7 @@ class Game:
                 elif event.type == pg.KEYDOWN and active:
                     if event.key == pg.K_RETURN:
                         self.enter_start(f)
+                        self.required_text.update('Are you ready?')
                         if self.bottom_statistic.color == 'green':
                             self.keyboard.white()
                             self.bottom_statistic.color = 'red'
