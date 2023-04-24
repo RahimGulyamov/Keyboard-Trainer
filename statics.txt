@@ -144,3 +144,107 @@ Result: Time:2 secs   Accuracy:0%   WpM: 0
 Main Text: Are you ready?
 Your Text: 
 Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: The chief translator of the European Parliament speaks 32 languages fluently
+Your Text: 
+Result: Time:22 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: 
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Why did Microsoft name their search engine BING? Because It's Not Google.
+Your Text: Why 
+Result: Time:12 secs   Accuracy:40%   WpM: 4
+
+Main Text: Chuck Norris can instantiate an abstract class.
+Your Text: Chuck Norris can instantiate an abstract class.
+Result: Time:71 secs   Accuracy:72%   WpM: 8
+
+Main Text: A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. 
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris can access private methods.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Number of days since I have encountered an off-by-one error: 0.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: 
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Chuck Norris's programs never exit, they are terminated.
+Your Text: Chuck Norris's programs never exit, they are terminated.
+Result: Time:33 secs   Accuracy:83%   WpM: 20
+
+Main Text: If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you p
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: A programmer walks into a foo...
+Your Text: A programmer walks into a foo...
+Result: Time:15 secs   Accuracy:97%   WpM: 25
+
+Main Text: What did the Java code say to the C code? A: You've got no class.
+Your Text: 
+Result: Time:3 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:3 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:3 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:3 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris can access the database from the UI.
+Your Text: Chuck Norris can access the database from the UI.
+Result: Time:21 secs   Accuracy:94%   WpM: 27
+
+Main Text: Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0

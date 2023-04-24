@@ -1,5 +1,5 @@
 import pygame
-from src.class_Text import Text
+from src.Text import Text
 
 pygame.init()
 

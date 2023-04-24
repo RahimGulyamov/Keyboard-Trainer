@@ -91,7 +91,7 @@ class Keyboard:
         for line in keys:
             for key in line:
                 if key.mistakes + key.proper_use <= 3:
-                    key.color = (0, 255, 0)
+                    key.color = 'white'
                 else:
                     red_num = round(255 * key.mistakes / (key.mistakes + key.proper_use))
                     key.color = (red_num, 255 - red_num, 0)
