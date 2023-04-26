@@ -1,0 +1,553 @@
+    This is the file of statics for of all time.
+
+Main Text: Chuck Norris only uses global variables. He has nothing to hide.
+Your Text: Chuck Norris
+Result: Time:10 secs   Accuracy:36%   WpM: 14
+
+Main Text: Chuck Norris's unit tests don't run. They die.
+Your Text:
+Result: Time:13 secs   Accuracy:0%   WpM: 0
+
+Main Text: Triumphantly, Beth removed Python 2.7 from her server in 2030. 'Finally!' she said with gl
+Your Text:
+Result: Time:8 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris doesn't use Oracle, he is the Oracle.
+Your Text: Chuck Norris doesn't use Oracle, he is the Oracle
+Result: Time:60 secs   Accuracy:70%   WpM: 10
+
+Main Text: 'It works on my machine' always holds true for Chuck Norris.
+Your Text: 'It works on my machine' always holds true for Chuck Norris/
+Result: Time:45 secs   Accuracy:86%   WpM: 16
+
+Main Text: Chuck Norris's log statements are always at the FATAL level.
+Your Text: Chuck Norris
+Result: Time:9 secs   Accuracy:48%   WpM: 17
+
+Main Text: There are two ways to write error-free programs; only the third one works.
+Your Text: There are two ways to write error-free programs; only the third one works.
+Result: Time:46 secs   Accuracy:84%   WpM: 19
+
+Main Text: Chuck Norris doesn't need an OS.
+Your Text: Chuck Norris doesn't need an OS.
+Result: Time:19 secs   Accuracy:94%   WpM: 19
+
+Main Text: Chuck Norris doesn't use Oracle, he is the Oracle.
+Your Text: Chuck Norris doesn't use Oracle, he is the Oracles
+Result: Time:26 secs   Accuracy:94%   WpM: 23
+
+Main Text: Chuck Norris can install iTunes without installing Quicktime.
+Your Text:
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris types with one finger. He points it at the keyboard and the keyboard does the
+Your Text: Chuck Norris
+Result: Time:9 secs   Accuracy:100%   WpM: 16
+
+Main Text: What do you mean 911 is only for emergencies? I've got a merge conflict.
+Your Text: What
+Result: Time:5 secs   Accuracy:100%   WpM: 13
+
+Main Text: Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then
+Your Text: Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then
+Result: Time:56 secs   Accuracy:91%   WpM: 19
+
+Main Text: Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug kill
+Your Text:
+Result: Time:7 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris's programs never exit, they are terminated.
+Your Text:
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bri
+Your Text: Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bri
+Result: Time:84 secs   Accuracy:83%   WpM: 13
+
+Main Text: Complaining about the lack of smoking shelters, the nicotine addicted Python programmers s
+Your Text: Complaining about the
+Result: Time:27 secs   Accuracy:18%   WpM: 10
+
+Main Text: A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tip
+Your Text: A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tip
+Result: Time:37 secs   Accuracy:95%   WpM: 29
+
+Main Text: Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
+Your Text: Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
+Result: Time:31 secs   Accuracy:99%   WpM: 34
+
+Main Text: Obfuscated Reality Mappers (ORMs) can be useful database tools.
+Your Text: Obfuscated
+Result: Time:15 secs   Accuracy:40%   WpM: 8
+
+Main Text: Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any cond
+Your Text: Two threads walk into a bar. The barkeeper looks up and yells
+Result: Time:24 secs   Accuracy:68%   WpM: 31
+
+Main Text: I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was un
+Your Text: I suggested holding a 'Python O
+Result: Time:21 secs   Accuracy:86%   WpM: 18
+
+Main Text: Chuck Norris can retrieve anything from /dev/null.
+Your Text:
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Waiter: He's choking! Is anyone a doctor? Programmer: I'm a Vim user.
+Your Text:
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, bee
+Your Text:
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+Your Text:
+Result: Time:6 secs   Accuracy:0%   WpM: 0
+
+Main Text: How do you generate a random string? Put a first year Computer Science student in Vim and
+Your Text:
+Result: Time:11 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:22 secs   Accuracy:0%   WpM: 0
+
+Main Text: For Chuck Norris, NP-Hard = O(1).
+Your Text: For Chuck Norris
+Result: Time:16 secs   Accuracy:23%   WpM: 12
+
+Main Text: What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never
+Your Text: What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never
+Result: Time:56 secs   Accuracy:82%   WpM: 19
+
+Main Text: Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the U
+Your Text: Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the d
+Result: Time:52 secs   Accuracy:86%   WpM: 20
+
+Main Text: Chuck Norris does not code in cycles, he codes in strikes.
+Your Text: Chuck Norris does not code in cycles, he codes in strikes.
+Result: Time:33 secs   Accuracy:98%   WpM: 20
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: How many programmers does it take to change a lightbulb? None, they just make darkness a s
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris never has to build his program to machine code. Machines have learnt to inter
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris writes code that optimises itself.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: How do you generate a random string? Put a first year Computer Science student in Vim and 
+Your Text: How
+Result: Time:4 secs   Accuracy:75%   WpM: 9
+
+Main Text: Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug kill
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Don't worry about tests, Chuck Norris's test cases cover your code too.
+Your Text: Don'
+Result: Time:4 secs   Accuracy:80%   WpM: 12
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up, 
+Your Text: 
+Result: Time:11 secs   Accuracy:0%   WpM: 0
+
+Main Text: 'It works on my machine' always holds true for Chuck Norris.
+Your Text: 
+Result: Time:4 secs   Accuracy:0%   WpM: 0
+
+Main Text: 'It works on my machine' always holds true for Chuck Norris.
+Your Text: 
+Result: Time:4 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris doesn't pair program.
+Your Text: 
+Result: Time:13 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris's OSI network model has only one layer - Physical.
+Your Text: Chuck Norris's OSI network model has only one layer - Physical.
+Result: Time:63 secs   Accuracy:57%   WpM: 12
+
+Main Text: Ubuntu users are apt to get this joke.
+Your Text: Ubuntu users are apt to get this joke.
+Result: Time:22 secs   Accuracy:90%   WpM: 20
+
+Main Text: Chuck Norris doesn't use reflection, reflection asks politely for his help.
+Your Text: Chuck Norris doesn't use reflection, reflection asks politely for his help
+Result: Time:39 secs   Accuracy:92%   WpM: 23
+
+Main Text: Triumphantly, Beth removed Python 2.7 from her server in 2030. 'Finally!' she said with gl
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: What did the Java code say to the C code? A: You've got no class.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris once shifted a bit so hard, it ended up on a different computer.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris can install iTunes without installing Quicktime.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
+Your Text: 
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
+Your Text: 
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris doesn't needs try-catch, exceptions are too afraid to raise.
+Your Text: 
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: Triumphantly, Beth removed Python 2.7 from her server in 2030. 'Finally!' she said with gl
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bound
+Your Text: 
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working,
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Obfuscated Reality Mappers (ORMs) can be useful database tools.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris's log statements are always at the FATAL level.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bri
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Unix is user friendly. It's just very particular about who its friends are.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: No statement can catch the ChuckNorrisException.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Why did the programmer quit his job? Because he didn't get arrays.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: How many programmers does it take to kill a cockroach? Two: one holds, the other installs 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Code runs faster when Chuck Norris watches it.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: A good programmer is someone who always looks both ways before crossing a one-way street.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: 
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris hosting is 101% uptime guaranteed.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically fr
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: The class object inherits from Chuck Norris.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: There are two ways to write error-free programs; only the third one works.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Project managers never ask Chuck Norris for estimations.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Chuck Norris can't test for equality because he has no equal.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris once implemented an HTTP server in a single printf call. It is now the heart 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: There are 10 types of people: those who understand binary, those who don't, and those who 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Hardware: The part of a computer that you can kick.
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: Hardware: The part of a computer that you can kick.
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: My friend's in a band called '1023 Megabytes'... They haven't got a gig yet!
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: My friend's in a band called '1023 Megabytes'... They haven't got a gig yet!
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris can access private methods.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: A programmer was found dead in the shower. Next to their body was a bottle of shampoo with
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: A programmer was found dead in the shower. Next to their body was a bottle of shampoo with
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris once shifted a bit so hard, it ended up on a different computer.
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris knows the value of NULL, and he can sort by it too.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0

@@ -1,0 +1,318 @@
+    This is the file of statics for of all time.
+
+Main Text: Chuck Norris only uses global variables. He has nothing to hide.
+Your Text: Chuck Norris
+Result: Time:10 secs   Accuracy:36%   WpM: 14
+
+Main Text: Chuck Norris's unit tests don't run. They die.
+Your Text: 
+Result: Time:13 secs   Accuracy:0%   WpM: 0
+
+Main Text: Triumphantly, Beth removed Python 2.7 from her server in 2030. 'Finally!' she said with gl
+Your Text: 
+Result: Time:8 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris doesn't use Oracle, he is the Oracle.
+Your Text: Chuck Norris doesn't use Oracle, he is the Oracle
+Result: Time:60 secs   Accuracy:70%   WpM: 10
+
+Main Text: 'It works on my machine' always holds true for Chuck Norris.
+Your Text: 'It works on my machine' always holds true for Chuck Norris/
+Result: Time:45 secs   Accuracy:86%   WpM: 16
+
+Main Text: Chuck Norris's log statements are always at the FATAL level.
+Your Text: Chuck Norris
+Result: Time:9 secs   Accuracy:48%   WpM: 17
+
+Main Text: There are two ways to write error-free programs; only the third one works.
+Your Text: There are two ways to write error-free programs; only the third one works.
+Result: Time:46 secs   Accuracy:84%   WpM: 19
+
+Main Text: Chuck Norris doesn't need an OS.
+Your Text: Chuck Norris doesn't need an OS.
+Result: Time:19 secs   Accuracy:94%   WpM: 19
+
+Main Text: Chuck Norris doesn't use Oracle, he is the Oracle.
+Your Text: Chuck Norris doesn't use Oracle, he is the Oracles
+Result: Time:26 secs   Accuracy:94%   WpM: 23
+
+Main Text: Chuck Norris can install iTunes without installing Quicktime.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris types with one finger. He points it at the keyboard and the keyboard does the
+Your Text: Chuck Norris
+Result: Time:9 secs   Accuracy:100%   WpM: 16
+
+Main Text: What do you mean 911 is only for emergencies? I've got a merge conflict.
+Your Text: What 
+Result: Time:5 secs   Accuracy:100%   WpM: 13
+
+Main Text: Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then
+Your Text: Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then
+Result: Time:56 secs   Accuracy:91%   WpM: 19
+
+Main Text: Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug kill
+Your Text: 
+Result: Time:7 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris's programs never exit, they are terminated.
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bri
+Your Text: Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bri
+Result: Time:84 secs   Accuracy:83%   WpM: 13
+
+Main Text: Complaining about the lack of smoking shelters, the nicotine addicted Python programmers s
+Your Text: Complaining about the 
+Result: Time:27 secs   Accuracy:18%   WpM: 10
+
+Main Text: A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tip
+Your Text: A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tip
+Result: Time:37 secs   Accuracy:95%   WpM: 29
+
+Main Text: Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
+Your Text: Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
+Result: Time:31 secs   Accuracy:99%   WpM: 34
+
+Main Text: Obfuscated Reality Mappers (ORMs) can be useful database tools.
+Your Text: Obfuscated
+Result: Time:15 secs   Accuracy:40%   WpM: 8
+
+Main Text: Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any cond
+Your Text: Two threads walk into a bar. The barkeeper looks up and yells
+Result: Time:24 secs   Accuracy:68%   WpM: 31
+
+Main Text: I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was un
+Your Text: I suggested holding a 'Python O
+Result: Time:21 secs   Accuracy:86%   WpM: 18
+
+Main Text: Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bri
+Your Text: Writing PHP is like peeing 
+Result: Time:19 secs   Accuracy:87%   WpM: 17
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:6 secs   Accuracy:0%   WpM: 0
+
+Main Text: In 2016, a Florida man was charged with assault after throwing a live alligator through a 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: In 2016, a Florida man was charged with assault after throwing a live alligator through a 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: A U.S. Park Ranger once got hit by lightning seven times.
+
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Incan people used knots to keep records
+Your Text: Incan people used knots to kee
+Result: Time:19 secs   Accuracy:88%   WpM: 19
+
+Main Text: Hair and nails grow faster during pregnancy
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Maine is the only state that borders just one other state
+Your Text: Ma
+Result: Time:11 secs   Accuracy:2%   WpM: 2
+
+Main Text: Why did the programmer quit his job? Because he didn't get arrays.
+Your Text: 
+Result: Time:5 secs   Accuracy:0%   WpM: 0
+
+Main Text: When your hammer is C++, everything begins to look like a thumb.
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: The chief translator of the European Parliament speaks 32 languages fluently
+Your Text: 
+Result: Time:22 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: 
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Why did Microsoft name their search engine BING? Because It's Not Google.
+Your Text: Why 
+Result: Time:12 secs   Accuracy:40%   WpM: 4
+
+Main Text: Chuck Norris can instantiate an abstract class.
+Your Text: Chuck Norris can instantiate an abstract class.
+Result: Time:71 secs   Accuracy:72%   WpM: 8
+
+Main Text: A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. 
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris can access private methods.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Number of days since I have encountered an off-by-one error: 0.
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:1 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: 
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Chuck Norris's programs never exit, they are terminated.
+Your Text: Chuck Norris's programs never exit, they are terminated.
+Result: Time:33 secs   Accuracy:83%   WpM: 20
+
+Main Text: If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you p
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: A programmer walks into a foo...
+Your Text: A programmer walks into a foo...
+Result: Time:15 secs   Accuracy:97%   WpM: 25
+
+Main Text: What did the Java code say to the C code? A: You've got no class.
+Your Text: 
+Result: Time:3 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:3 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:3 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:3 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris can access the database from the UI.
+Your Text: Chuck Norris can access the database from the UI.
+Result: Time:21 secs   Accuracy:94%   WpM: 27
+
+Main Text: Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:0   Accuracy:0 %    WpM:0
+
+Main Text: Sharks can live for five centuries
+Your Text: Sharks can live for five centuries
+Result: Time:18 secs   Accuracy:79%   WpM: 22
+
+Main Text: The cracking sound your joints make is the sound of gases being released
+Your Text: The cracking sound your joints make is the sound of gases being released
+Result: Time:35 secs   Accuracy:89%   WpM: 24
+
+Main Text: London cabbies have to memorize literally everything
+Your Text: London cabbies have to memorize literally everything
+Result: Time:24 secs   Accuracy:91%   WpM: 26
+
+Main Text: The first iPhone wasn't made by Apple
+Your Text: The first iPhone wasn't made by Apple
+Result: Time:23 secs   Accuracy:78%   WpM: 19
+
+Main Text: The hottest spot on the planet is in Libya
+Your Text: The hottest spot on the planet is in Libya
+Result: Time:21 secs   Accuracy:85%   WpM: 24
+
+Main Text: Actor Bill Murray uses a 1-800 number instead of an agent or manager
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: The world wastes about 1 billion metric tons of food each year
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: 
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:2 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris causes the Blue Screen of Death.
+Your Text: 
+Result: Time:0 secs   Accuracy:0%   WpM: 0
+
+Main Text: Chuck Norris's OSI network model has only one layer - Physical.
+Your Text: Chuck Norris's OSI net
+Result: Time:11 secs   Accuracy:76%   WpM: 24
+
+Main Text: Are you ready?
+Your Text: 
+Result: Time:11 secs   Accuracy:76%   WpM: 24
+
+Main Text: 
+Your Text: 
+Result: Time:11 secs   Accuracy:76%   WpM: 24
+
+Main Text: 
+Your Text: 
+Result: Time:11 secs   Accuracy:76%   WpM: 24
